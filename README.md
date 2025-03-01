@@ -1,3 +1,11 @@
+###
+<div align="center">
+  
+###
+<html style="height: 100%;"><head><meta name="viewport" content="width=device-width, minimum-scale=0.1"></head><body style="margin: 0px; height: 100%; background-color: rgb(14, 14, 14);"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://www.lambdatest.com/resources/images/news24.gif"></body></html>
+
+
+
 <h1 align="center">Hi 👋, I'm AMIT KUMAR</h1>
 <h3 align="center">"Hi, I'm Amit Kumar, a Computer Science student at NERIST with expertise in Full Stack Development, Java, DSA, and C/C++. Through internships at Prodigy Infotech and Visioninternz, I’ve gained hands-on experience in building scalable applications. I also completed a micro-credit course at IIT Guwahati and have been admitted to a postgraduate program at the University of Texas. Passionate about efficient algorithms and robust software solutions, I'm eager to apply my skills to real-world projects in the tech industry.".</h3>
 
@@ -5,11 +13,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitkumar97097" alt="amitkumar97097" /></a> </p>
 
-- 🔭 I’m currently studing on **NERIST**
-
-- 📫 How to reach me **amitraj02947@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bywJpPflSrclWqNH2I9CiqlZSMdgtYHw/view?usp=sharing](https://drive.google.com/file/d/1bywJpPflSrclWqNH2I9CiqlZSMdgtYHw/view?usp=sharing)
+- <p align="left">🔭 I’m currently studying in **NERIST**
+- <p align="left">📫 How to reach me: <a href="mailto:amitraj02947@gmail.com">amitraj02947@gmail.com</a></p>
+- <p align="left">📄 Know about my experiences [https://drive.google.com/file/d/1bywJpPflSrclWqNH2I9CiqlZSMdgtYHw/view?usp=sharing](https://drive.google.com/file/d/1bywJpPflSrclWqNH2I9CiqlZSMdgtYHw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
