@@ -15,7 +15,7 @@
 
 - <p align="left">🔭 I’m currently studying in **NERIST**
 - <p align="left">📫 How to reach me: <a href="mailto:amitraj02947@gmail.com">amitraj02947@gmail.com</a></p>
-- <p align="left">📄 Know about my experiences [https://drive.google.com/file/d/1TJlylbnLl7wq8H2N28VUatgHZvcauZQE/view?usp=sharing)
+- <p align="left">📄 Know about my experiences [https://drive.google.com/file/d/1v9cnuTELoGcaQQPo_aAyYNWf_z4CUr6d/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
