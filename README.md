@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi 👋, I'm AMIT KUMAR</h1>
-<h3 align="center">"Hi, I'm Amit Kumar, a Computer Science student at NERIST with expertise in Full Stack Development, Java, DSA, and C/C++. Through internships at Prodigy Infotech and Visioninternz, I’ve gained hands-on experience in building scalable applications. I also completed a micro-credit course at IIT Guwahati and have been admitted to a postgraduate program at the University of Texas. Passionate about efficient algorithms and robust software solutions, I'm eager to apply my skills to real-world projects in the tech industry.".</h3>
+<h3 align="center">"I am Amit Kumar, a final-year Computer Science student at NERIST, specializing in Full Stack Development, Java, Data Structures and Algorithms (DSA), and C/C++. I have completed internships at IIT Guwahati, Prodigy Infotech, and Visioninternz, where I gained practical experience in designing and developing scalable software solutions. Additionally, I completed a micro-credit course at IIT Guwahati, further strengthening my technical foundation. I have also been admitted to a postgraduate program at the University of Texas. With a strong interest in algorithmic problem-solving and robust system design, I am keen to contribute to impactful real-world projects in the tech industry.".</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkumar97097&label=Profile%20views&color=0e75b6&style=flat" alt="amitkumar97097" /> </p>
 
