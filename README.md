@@ -1,33 +1,115 @@
-###
-<div align="center">
-  
-###
-<html style="height: 100%;"><head><meta name="viewport" content="width=device-width, minimum-scale=0.1"></head><body style="margin: 0px; height: 100%; background-color: rgb(14, 14, 14);"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://www.lambdatest.com/resources/images/news24.gif"></body></html>
+<h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 
+<h3 align="center">
+Software Developer | Full Stack Developer | AI/ML Enthusiast
+</h3>
 
-
-<h1 align="center">Hi 👋, I'm AMIT KUMAR</h1>
-<h3 align="center">"I am Amit Kumar, a final-year Computer Science student at NERIST, specializing in Full Stack Development, Java, Data Structures and Algorithms (DSA), and C/C++. I have completed internships at IIT Guwahati, Prodigy Infotech, and Visioninternz, where I gained practical experience in designing and developing scalable software solutions. Additionally, I completed a micro-credit course at IIT Guwahati, further strengthening my technical foundation. I have also been admitted to a postgraduate program at the University of Texas. With a strong interest in algorithmic problem-solving and robust system design, I am keen to contribute to impactful real-world projects in the tech industry.".</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkumar97097&label=Profile%20views&color=0e75b6&style=flat" alt="amitkumar97097" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitkumar97097" alt="amitkumar97097" /></a> </p>
-
-- <p align="left">🔭 I’m currently studying in **NERIST**
-- <p align="left">📫 How to reach me: <a href="mailto:amitraj02947@gmail.com">amitraj02947@gmail.com</a></p>
-- <p align="left">📄 Know about my experiences {https://drive.google.com/file/d/1U4Wpu3VmyLbITb-X8mWvixpHubJjvfCA/view?usp=sharing}
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://g.dev/amit9709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://g.dev/amit9709" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/amit-kumar-79b800256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amit-kumar-79b800256/" height="30" width="40" /></a>
-<a href="/https://codesandbox.io/p/devbox/amit-m61ojp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/p/devbox/amit-m61ojp" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/amitraj0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/amitraj0/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amitkumar97097&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkumar97097&show_icons=true&locale=en" alt="amitkumar97097" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkumar97097&" alt="amitkumar97097" /></p>
+🎓 B.Tech in Computer Science & Engineering (2022–2026) from NERIST
+
+💻 Passionate about Full Stack Development, AI/ML, and Scalable Software Systems
+
+🧠 Strong foundation in Data Structures & Algorithms
+
+📈 Solved 200+ Coding Problems
+
+🌱 Currently exploring System Design, Cloud Computing, and Machine Learning
+
+📫 Reach me at: **amitraj02947@gmail.com**
+
+🌐 Portfolio: **https://portfolio-website-new-topaz.vercel.app/**
+
+---
+
+## 💼 Experience
+
+### AI/ML Intern | IIT Guwahati
+- Developed BERT-based sentiment analysis system
+- Achieved 92% classification accuracy
+- Reduced API response latency by 30% using Flask optimization
+
+### Full Stack Developer Intern | VisionInternz
+- Built responsive web applications using React.js and Node.js
+- Developed REST APIs and integrated databases
+
+### Web Development Intern | Prodigy Infotech
+- Designed and implemented modern web interfaces
+- Improved UI responsiveness and user experience
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏨 Hotel Reservation System
+- Full Stack MERN Application
+- Secure Authentication & Room Booking
+- Payment Gateway Integration
+
+### 🤖 Chatbot Sentiment Analysis
+- NLP & BERT-based Sentiment Classification
+- 92% Accuracy
+- Flask Deployment
+
+### 🔍 Fake Influencer Detection using GNN
+- Graph Neural Networks
+- Social Network Analysis
+- Fake Account Detection
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amitkumar97097&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitkumar97097&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar97097&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amit-kumar-79b800256)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/amitraj0)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://portfolio-website-new-topaz.vercel.app)
+
+---
+
+⭐ Open to Software Development, Full Stack Development, and AI/ML Opportunities
