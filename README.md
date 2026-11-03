@@ -1,14 +1,17 @@
 <div align="center">
 
-<img src="./assets/amit-hero.svg" width="100%" alt="Amit Kumar — Software Developer and AI/ML Engineer" />
+<img src="./assets/amit-hero.svg" width="100%" alt="Amit Kumar — Software Developer | Full-Stack Development | AI and Machine Learning" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=amitkumar97097&label=PROFILE%20VIEWS&color=701A3D&style=flat-square)](https://github.com/amitkumar97097)
-[![GitHub Followers](https://img.shields.io/github/followers/amitkumar97097?label=Followers&style=flat-square&color=701A3D)](https://github.com/amitkumar97097?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/amitkumar97097?affiliations=OWNER&style=flat-square&color=701A3D)](https://github.com/amitkumar97097?tab=repositories)
+<a href="https://github.com/amitkumar97097">
+  <img src="https://komarev.com/ghpvc/?username=amitkumar97097&label=PROFILE%20VIEWS&color=701A3D&style=flat-square" alt="Profile views"/>
+</a>
+<a href="https://github.com/amitkumar97097?tab=followers">
+  <img src="https://img.shields.io/github/followers/amitkumar97097?label=FOLLOWERS&style=flat-square&color=701A3D&logo=github" alt="GitHub followers"/>
+</a>
 
-**SOFTWARE ENGINEERING · ARTIFICIAL INTELLIGENCE · CREATIVE TECHNOLOGY**
+**SOFTWARE ENGINEERING · FULL-STACK DEVELOPMENT · ARTIFICIAL INTELLIGENCE**
 
 [Portfolio](https://portfolio-website-new-topaz.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/amit-kumar-79b800256/) · [GitHub](https://github.com/amitkumar97097) · [LeetCode](https://leetcode.com/u/amitraj0/)
 
@@ -16,196 +19,180 @@
 
 ---
 
-## 01. About Me
+## 01 / About
 
-I'm **Amit Kumar**, a software developer interested in building intelligent, scalable, and user-focused digital products.
+I'm **Amit Kumar**, a software developer interested in building useful, scalable, and intelligent digital products. I enjoy working across the stack—from designing responsive interfaces and backend services to exploring machine learning applications.
 
-Currently pursuing **M.Tech in Computer Science and Engineering (Artificial Intelligence)** at **IIIT Guwahati (2026–2028)**.
-
-My interests lie at the intersection of software engineering, full-stack development, artificial intelligence, and machine learning.
-
-- 🎓 M.Tech CSE (AI) student at IIIT Guwahati.
-- 💻 Interested in Full-Stack Development and Software Engineering.
-- 🧠 Practicing Data Structures and Algorithms — 200+ coding problems solved.
-- 🤖 Exploring NLP, Graph Neural Networks, and Machine Learning.
-- ⚙️ Building practical applications using modern web technologies.
-- 🌱 Currently strengthening my knowledge of System Design, Cloud Computing, and Scalable Applications.
+- 🎓 **Currently:** M.Tech in Computer Science and Engineering (Artificial Intelligence), IIIT Guwahati (2026–2028).
+- 💻 **Focus:** Full-stack development, software engineering, and AI/ML.
+- 🧠 **Problem solving:** 200+ coding problems solved (as reported in my profile).
+- 🤖 **Exploring:** Natural Language Processing, Graph Neural Networks, and applied machine learning.
+- 🌱 **Learning:** System design, cloud computing, and scalable application development.
 
 ---
 
-## 02. Experience
+## 02 / Experience
 
-### AI/ML Intern — IIT Guwahati
+<details open>
+<summary><strong>AI/ML Intern · IIT Guwahati</strong></summary>
 
 - Worked on an NLP-based sentiment analysis chatbot using Python and BERT.
-- Developed a sentiment classification workflow.
-- Explored model evaluation and deployment.
+- Developed a sentiment-classification workflow.
+- Explored model evaluation and application integration.
 
-### Full-Stack Development Intern — VisionInternz
+</details>
+
+<details>
+<summary><strong>Full-Stack Development Intern · VisionInternz</strong></summary>
 
 - Developed responsive web application interfaces using React.js.
-- Worked with Node.js and backend integration.
-- Worked on REST API integration.
+- Worked with Node.js, backend integration, and REST APIs.
 
-### Front-End Development Intern — Prodigy Infotech
+</details>
+
+<details>
+<summary><strong>Front-End Development Intern · Prodigy Infotech</strong></summary>
 
 - Built web interfaces using HTML, CSS, and JavaScript.
 - Focused on responsive layouts and user experience.
 
+</details>
+
 ---
 
-## 03. Selected Projects
+## 03 / Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏨 Hotel Reservation System
 
 A full-stack hotel booking and reservation management application.
 
-- Designed around room availability and booking workflows.
-- Worked on user authentication and reservation management.
-- Focused on reliable booking operations.
+- Room availability and booking workflows
+- User authentication and reservation management
+- Focus on reliable booking operations
 
-**Tech:** React.js · Node.js · Express.js · MongoDB
+**Stack:** React.js · Node.js · Express.js · MongoDB
+
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 AI Chatbot — Sentiment Analysis
 
-An NLP-based chatbot developed for sentiment classification using BERT.
+An NLP-based chatbot for sentiment classification using BERT.
 
-- Implemented sentiment analysis workflows.
-- Explored NLP-based classification and model evaluation.
-- Integrated the model into an application workflow.
+- Sentiment-analysis workflow
+- NLP-based classification
+- Model evaluation and application integration
 
-**Tech:** Python · BERT · NLP · Flask
+**Stack:** Python · BERT · NLP · Flask
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🔍 Fake Influencer Detection Using ML & GNNs
 
-A machine learning and graph-based approach to identifying suspicious social media accounts.
+Exploring the detection of suspicious social media accounts using account metadata and graph relationships.
 
-- Exploring account metadata and graph relationships.
-- Experimenting with traditional machine learning models.
-- Investigating graph-based approaches for influencer detection.
+- Experimenting with traditional machine-learning models
+- Investigating graph-based approaches to account analysis
 
-**Tech:** Python · Scikit-learn · NetworkX · Graph Neural Networks
+**Stack:** Python · Scikit-learn · NetworkX · Graph Neural Networks
 
----
-
-## 04. Technical Arsenal
-
-**Programming Languages**
-
-![C++](https://img.shields.io/badge/C%2B%2B-451126?style=flat-square&logo=cplusplus&logoColor=E5B5C7)
-![Java](https://img.shields.io/badge/Java-451126?style=flat-square&logo=openjdk&logoColor=E5B5C7)
-![Python](https://img.shields.io/badge/Python-451126?style=flat-square&logo=python&logoColor=E5B5C7)
-![JavaScript](https://img.shields.io/badge/JavaScript-451126?style=flat-square&logo=javascript&logoColor=E5B5C7)
-![SQL](https://img.shields.io/badge/SQL-451126?style=flat-square&logo=mysql&logoColor=E5B5C7)
-
-**Frontend Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-451126?style=flat-square&logo=html5&logoColor=E5B5C7)
-![CSS3](https://img.shields.io/badge/CSS3-451126?style=flat-square&logo=css3&logoColor=E5B5C7)
-![React](https://img.shields.io/badge/React-451126?style=flat-square&logo=react&logoColor=E5B5C7)
-![Next.js](https://img.shields.io/badge/Next.js-451126?style=flat-square&logo=next.js&logoColor=E5B5C7)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-451126?style=flat-square&logo=tailwindcss&logoColor=E5B5C7)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-451126?style=flat-square&logo=nodedotjs&logoColor=E5B5C7)
-![Express.js](https://img.shields.io/badge/Express.js-451126?style=flat-square&logo=express&logoColor=E5B5C7)
-![MongoDB](https://img.shields.io/badge/MongoDB-451126?style=flat-square&logo=mongodb&logoColor=E5B5C7)
-![MySQL](https://img.shields.io/badge/MySQL-451126?style=flat-square&logo=mysql&logoColor=E5B5C7)
-
-**AI/ML & Developer Tools**
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-701A3D?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-701A3D?style=flat-square)
-![Git](https://img.shields.io/badge/Git-451126?style=flat-square&logo=git&logoColor=E5B5C7)
-![GitHub](https://img.shields.io/badge/GitHub-451126?style=flat-square&logo=github&logoColor=E5B5C7)
-
----
-
-<h2 align="left">05. GitHub Activity</h2>
-
-<p align="left">
-  <sub>MY DEVELOPMENT JOURNEY · OPEN SOURCE · CONTINUOUS LEARNING</sub>
-</p>
-
-<div align="center">
-
-<a href="https://github.com/amitkumar97097">
-  <img src="https://img.shields.io/github/followers/amitkumar97097?label=FOLLOWERS&style=for-the-badge&color=451126&labelColor=10070C&logo=github&logoColor=E5B5C7" alt="GitHub Followers"/>
-</a>
-<a href="https://github.com/amitkumar97097?tab=repositories">
-  <img src="https://img.shields.io/github/stars/amitkumar97097?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=701A3D&labelColor=10070C&logo=github&logoColor=E5B5C7" alt="GitHub Stars"/>
-</a>
-
-<br/><br/>
-
-<table width="100%">
-<tr>
-<td align="center" width="50%">
-<h3>01 / EXPLORE</h3>
-<a href="https://github.com/amitkumar97097?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW-ALL%20PROJECTS-701A3D?style=for-the-badge&logo=github&logoColor=E5B5C7" alt="View Projects"/>
-</a>
-<br/>
-<sub>Explore my development projects</sub>
-</td>
-<td align="center" width="50%">
-<h3>02 / CONNECT</h3>
-<a href="https://github.com/amitkumar97097?tab=followers">
-<img src="https://img.shields.io/badge/CONNECT-ON%20GITHUB-451126?style=for-the-badge&logo=github&logoColor=E5B5C7" alt="Connect on GitHub"/>
-</a>
-<br/>
-<sub>Follow my coding journey</sub>
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<h3>CONTRIBUTION HISTORY</h3>
+## 04 / Technical Skills
+
+<div align="center">
+
+**LANGUAGES**
+
+![C++](https://img.shields.io/badge/C%2B%2B-451126?style=for-the-badge&logo=cplusplus&logoColor=E5B5C7)
+![Java](https://img.shields.io/badge/Java-451126?style=for-the-badge&logo=openjdk&logoColor=E5B5C7)
+![Python](https://img.shields.io/badge/Python-451126?style=for-the-badge&logo=python&logoColor=E5B5C7)
+![JavaScript](https://img.shields.io/badge/JavaScript-451126?style=for-the-badge&logo=javascript&logoColor=E5B5C7)
+![SQL](https://img.shields.io/badge/SQL-451126?style=for-the-badge&logo=mysql&logoColor=E5B5C7)
+
+**FRONTEND**
+
+![HTML5](https://img.shields.io/badge/HTML5-451126?style=for-the-badge&logo=html5&logoColor=E5B5C7)
+![CSS3](https://img.shields.io/badge/CSS3-451126?style=for-the-badge&logo=css3&logoColor=E5B5C7)
+![React](https://img.shields.io/badge/React-451126?style=for-the-badge&logo=react&logoColor=E5B5C7)
+![Next.js](https://img.shields.io/badge/Next.js-451126?style=for-the-badge&logo=next.js&logoColor=E5B5C7)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-451126?style=for-the-badge&logo=tailwindcss&logoColor=E5B5C7)
+
+**BACKEND & DATABASES**
+
+![Node.js](https://img.shields.io/badge/Node.js-451126?style=for-the-badge&logo=nodedotjs&logoColor=E5B5C7)
+![Express.js](https://img.shields.io/badge/Express.js-451126?style=for-the-badge&logo=express&logoColor=E5B5C7)
+![MongoDB](https://img.shields.io/badge/MongoDB-451126?style=for-the-badge&logo=mongodb&logoColor=E5B5C7)
+![MySQL](https://img.shields.io/badge/MySQL-451126?style=for-the-badge&logo=mysql&logoColor=E5B5C7)
+
+**AI/ML & TOOLS**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-701A3D?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-701A3D?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-451126?style=for-the-badge&logo=git&logoColor=E5B5C7)
+![GitHub](https://img.shields.io/badge/GitHub-451126?style=for-the-badge&logo=github&logoColor=E5B5C7)
+
+</div>
+
+---
+
+## 05 / GitHub Activity
+
+<div align="center">
 
 <a href="https://github.com/amitkumar97097">
-<img src="https://ghchart.rshah.org/701A3D/amitkumar97097" alt="GitHub contribution calendar"/>
+  <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-451126?style=for-the-badge&logo=github&logoColor=E5B5C7" alt="Explore GitHub profile"/>
+</a>
+<a href="https://github.com/amitkumar97097?tab=repositories">
+  <img src="https://img.shields.io/badge/BROWSE_REPOSITORIES-701A3D?style=for-the-badge&logo=github&logoColor=E5B5C7" alt="Browse repositories"/>
 </a>
 
 <br/><br/>
 
-<sub>Contribution calendar is provided by an external service. If unavailable, visit the GitHub profile directly.</sub>
-
-<br/>
-
 <a href="https://github.com/amitkumar97097">
-<img src="https://img.shields.io/badge/EXPLORE-MY%20GITHUB%20PROFILE-701A3D?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
+  <img src="https://ghchart.rshah.org/701A3D/amitkumar97097" alt="GitHub contribution calendar for Amit Kumar" width="100%"/>
 </a>
+
+<sub>Contribution calendar is served by a third-party service. If it does not load, view the original activity directly on <a href="https://github.com/amitkumar97097">GitHub</a>.</sub>
 
 </div>
 
-## 06. Connect With Me
+---
+
+## 06 / Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/amit-kumar-79b800256/">
-<img src="https://img.shields.io/badge/LinkedIn-451126?style=for-the-badge&logo=linkedin&logoColor=E5B5C7" alt="LinkedIn" />
-</a>
-<a href="https://github.com/amitkumar97097">
-<img src="https://img.shields.io/badge/GitHub-451126?style=for-the-badge&logo=github&logoColor=E5B5C7" alt="GitHub" />
+  <img src="https://img.shields.io/badge/LINKEDIN-451126?style=for-the-badge&logo=linkedin&logoColor=E5B5C7" alt="LinkedIn"/>
 </a>
 <a href="https://leetcode.com/u/amitraj0/">
-<img src="https://img.shields.io/badge/LeetCode-451126?style=for-the-badge&logo=leetcode&logoColor=E5B5C7" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LEETCODE-451126?style=for-the-badge&logo=leetcode&logoColor=E5B5C7" alt="LeetCode"/>
 </a>
 <a href="https://portfolio-website-new-topaz.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-451126?style=for-the-badge&logo=vercel&logoColor=E5B5C7" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-451126?style=for-the-badge&logo=vercel&logoColor=E5B5C7" alt="Portfolio"/>
 </a>
 <a href="mailto:amitraj02947@gmail.com">
-<img src="https://img.shields.io/badge/Email-451126?style=for-the-badge&logo=gmail&logoColor=E5B5C7" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-451126?style=for-the-badge&logo=gmail&logoColor=E5B5C7" alt="Email"/>
 </a>
 
 <br/><br/>
 
-**Open to software engineering, full-stack development, and AI/ML opportunities.**
+**Open to connecting with developers and exploring software engineering, full-stack, and AI/ML opportunities.**
 
-<img src="./assets/amit-footer.svg" width="100%" alt="End of profile" />
+<img src="./assets/amit-footer.svg" width="100%" alt="Thank you for visiting"/>
 
-<sub>Designed with curiosity, built with code.</sub>
+<sub>Designed with curiosity. Built with code.</sub>
 
 </div>
