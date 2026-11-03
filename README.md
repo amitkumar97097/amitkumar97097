@@ -1,20 +1,23 @@
+
 <div align="center">
 
-<img src="./assets/amit-hero.svg" width="100%" alt="Amit Kumar — Full-Stack Developer and AI Enthusiast"/>
+  <img src="./assets/amit-hero.svg" width="100%" alt="Amit Kumar — Full-Stack Developer and AI Enthusiast"/>
 
-<br/>
+  <br/><br/>
 
-<a href="https://github.com/amitkumar97097">
-  <img src="https://komarev.com/ghpvc/?username=amitkumar97097&label=PROFILE%20VIEWS&color=54C6A3&style=flat-square" alt="Profile views"/>
-</a>
-<a href="https://github.com/amitkumar97097?tab=followers">
-  <img src="https://img.shields.io/github/followers/amitkumar97097?label=FOLLOWERS&style=flat-square&color=54C6A3&logo=github" alt="GitHub followers"/>
-</a>
+  <a href="https://github.com/amitkumar97097">
+    <img src="https://komarev.com/ghpvc/?username=amitkumar97097&label=PROFILE%20VIEWS&color=54C6A3&style=flat-square" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/amitkumar97097?tab=followers">
+    <img src="https://img.shields.io/github/followers/amitkumar97097?label=FOLLOWERS&style=flat-square&color=54C6A3&logo=github" alt="GitHub followers"/>
+  </a>
 
-<a href="https://portfolio-website-new-topaz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-263238?style=for-the-badge&logo=google-chrome&logoColor=54C6A3" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/amit-kumar-79b800256/"><img src="https://img.shields.io/badge/LinkedIn-263238?style=for-the-badge&logo=linkedin&logoColor=54C6A3" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/amitraj0/"><img src="https://img.shields.io/badge/LeetCode-263238?style=for-the-badge&logo=leetcode&logoColor=54C6A3" alt="LeetCode"/></a>
-<a href="mailto:amitraj02947@gmail.com"><img src="https://img.shields.io/badge/Email-263238?style=for-the-badge&logo=gmail&logoColor=54C6A3" alt="Email"/></a>
+  <br/><br/>
+
+  <a href="https://portfolio-website-new-topaz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-263238?style=for-the-badge&logo=google-chrome&logoColor=54C6A3" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/amit-kumar-79b800256/"><img src="https://img.shields.io/badge/LinkedIn-263238?style=for-the-badge&logo=linkedin&logoColor=54C6A3" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/amitraj0/"><img src="https://img.shields.io/badge/LeetCode-263238?style=for-the-badge&logo=leetcode&logoColor=54C6A3" alt="LeetCode"/></a>
+  <a href="mailto:amitraj02947@gmail.com"><img src="https://img.shields.io/badge/Email-263238?style=for-the-badge&logo=gmail&logoColor=54C6A3" alt="Email"/></a>
 
 </div>
 
@@ -24,7 +27,7 @@
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
 - 🎓 M.Tech student in **Computer Science & Engineering (Artificial Intelligence)** at **IIIT Guwahati**.
 - 💻 Interested in **Full-Stack Development, Artificial Intelligence, Machine Learning, and NLP**.
@@ -33,7 +36,7 @@
 - 🤝 Open to collaborating on software engineering and AI projects.
 
 </td>
-<td width="38%" valign="top">
+<td width="40%" valign="top" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=amitkumar97097&show_icons=true&hide_border=true&bg_color=242B32&title_color=9BE2CC&icon_color=54C6A3&text_color=E6EDF3&rank_icon=github" alt="Amit's GitHub stats" width="100%"/>
 
@@ -49,7 +52,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,sql&theme=dark" alt="C++, Python, JavaScript, SQL"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js&theme=dark" alt="C++, Python, JavaScript"/>
 
 **Frameworks & Libraries**
 
@@ -142,42 +145,38 @@ A full-stack booking platform focused on secure user access, room availability, 
 
 ---
 
-<h2>📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-  <!-- GitHub Streak -->
-  <img
-    src="https://streak-stats.demolab.com?user=amitkumar97097&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-    width="90%"
-  />
+<a href="https://github.com/amitkumar97097">
+  <img src="https://github-readme-stats.vercel.app/api?username=amitkumar97097&show_icons=true&theme=github_dark&hide_border=true&bg_color=242B32&title_color=9BE2CC&icon_color=54C6A3&text_color=E6EDF3" alt="GitHub Statistics" height="180"/>
+</a>
+<a href="https://github.com/amitkumar97097">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar97097&layout=compact&theme=github_dark&hide_border=true&bg_color=242B32&title_color=9BE2CC&text_color=E6EDF3" alt="Top Languages" height="180"/>
+</a>
 
-  <br/><br/>
+<br/><br/>
 
-  <!-- Contribution Calendar -->
-  <img
-    src="https://ghchart.rshah.org/54C6A3/amitkumar97097"
-    alt="GitHub Contribution Calendar"
-    width="100%"
-  />
+<img src="https://streak-stats.demolab.com?user=amitkumar97097&theme=github-dark-blue&hide_border=true&background=242B32&ring=54C6A3&fire=54C6A3&currStreakLabel=9BE2CC&sideLabels=E6EDF3&dates=9AA7B2" alt="GitHub Streak" width="90%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitkumar97097&bg_color=242B32&color=E6EDF3&line=54C6A3&point=9BE2CC&area=true&hide_border=true" alt="GitHub Contribution Activity Graph" width="100%"/>
 
 </div>
+
+---
+
+## 🗓️ Contribution Calendar
+
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=amitkumar97097&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Statistics"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar97097&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages"
-    height="180"
-  />
+<img src="https://ghchart.rshah.org/54C6A3/amitkumar97097" alt="GitHub Contribution Calendar" width="100%"/>
 
 </div>
+
+---
 
 ## 🎓 Education
 
@@ -208,5 +207,9 @@ A full-stack booking platform focused on secure user access, room availability, 
 <br/><br/>
 
 <img src="./assets/amit-footer.svg" width="100%" alt="Thanks for visiting"/>
+
+<br/>
+
+<sub>Build with purpose. Learn continuously. Keep shipping.</sub>
 
 </div>
