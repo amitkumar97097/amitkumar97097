@@ -122,24 +122,63 @@ A machine learning and graph-based approach to identifying suspicious social med
 
 ---
 
-## 05. GitHub Activity
+<h2 align="left">05. GitHub Activity</h2>
+
+<p align="left">
+  <sub>MY DEVELOPMENT JOURNEY · OPEN SOURCE · CONTINUOUS LEARNING</sub>
+</p>
 
 <div align="center">
 
-### Explore My GitHub Journey
+<a href="https://github.com/amitkumar97097">
+  <img src="https://img.shields.io/github/followers/amitkumar97097?label=FOLLOWERS&style=for-the-badge&color=451126&labelColor=10070C&logo=github&logoColor=E5B5C7" alt="GitHub Followers"/>
+</a>
+<a href="https://github.com/amitkumar97097?tab=repositories">
+  <img src="https://img.shields.io/github/stars/amitkumar97097?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=701A3D&labelColor=10070C&logo=github&logoColor=E5B5C7" alt="GitHub Stars"/>
+</a>
 
-[![GitHub Profile](https://img.shields.io/badge/Explore-GitHub%20Profile-701A3D?style=for-the-badge&logo=github&logoColor=E5B5C7)](https://github.com/amitkumar97097)
+<br/><br/>
 
-[![Repositories](https://img.shields.io/badge/View-Public%20Repositories-451126?style=for-the-badge&logo=github&logoColor=E5B5C7)](https://github.com/amitkumar97097?tab=repositories)
-
-[![Contributions](https://img.shields.io/badge/View-Contribution%20Calendar-701A3D?style=for-the-badge&logo=github&logoColor=E5B5C7)](https://github.com/amitkumar97097)
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+<h3>01 / EXPLORE</h3>
+<a href="https://github.com/amitkumar97097?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW-ALL%20PROJECTS-701A3D?style=for-the-badge&logo=github&logoColor=E5B5C7" alt="View Projects"/>
+</a>
+<br/>
+<sub>Explore my development projects</sub>
+</td>
+<td align="center" width="50%">
+<h3>02 / CONNECT</h3>
+<a href="https://github.com/amitkumar97097?tab=followers">
+<img src="https://img.shields.io/badge/CONNECT-ON%20GITHUB-451126?style=for-the-badge&logo=github&logoColor=E5B5C7" alt="Connect on GitHub"/>
+</a>
+<br/>
+<sub>Follow my coding journey</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
-**Code. Contribute. Create. Repeat.**
+<h3>CONTRIBUTION HISTORY</h3>
+
+<a href="https://github.com/amitkumar97097">
+<img src="https://ghchart.rshah.org/701A3D/amitkumar97097" alt="GitHub contribution calendar"/>
+</a>
+
+<br/><br/>
+
+<sub>Contribution calendar is provided by an external service. If unavailable, visit the GitHub profile directly.</sub>
+
+<br/>
+
+<a href="https://github.com/amitkumar97097">
+<img src="https://img.shields.io/badge/EXPLORE-MY%20GITHUB%20PROFILE-701A3D?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
+</a>
 
 </div>
-
 
 ## 06. Connect With Me
 
