@@ -161,10 +161,6 @@ A full-stack booking platform focused on secure user access, room availability, 
 
 <img src="https://streak-stats.demolab.com?user=amitkumar97097&theme=github-dark-blue&hide_border=true&background=242B32&ring=54C6A3&fire=54C6A3&currStreakLabel=9BE2CC&sideLabels=E6EDF3&dates=9AA7B2" alt="GitHub Streak" width="90%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitkumar97097&bg_color=242B32&color=E6EDF3&line=54C6A3&point=9BE2CC&area=true&hide_border=true" alt="GitHub Contribution Activity Graph" width="100%"/>
-
 </div>
 
 ---
@@ -174,6 +170,12 @@ A full-stack booking platform focused on secure user access, room availability, 
 <div align="center">
 
 <img src="https://ghchart.rshah.org/54C6A3/amitkumar97097" alt="GitHub Contribution Calendar" width="100%"/>
+
+<br/>
+
+<a href="https://github.com/amitkumar97097">
+  View my complete GitHub activity →
+</a>
 
 </div>
 
