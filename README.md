@@ -163,7 +163,21 @@ A full-stack booking platform focused on secure user access, room availability, 
   />
 
 </div>
+<div align="center">
 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=amitkumar97097&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Statistics"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar97097&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+    height="180"
+  />
+
+</div>
 
 ## 🎓 Education
 
