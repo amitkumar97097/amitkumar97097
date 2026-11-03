@@ -19,89 +19,89 @@
 
 ---
 
-## 01 / About
+## 01 / The Developer
 
-I'm **Amit Kumar**, a software developer interested in building useful, scalable, and intelligent digital products. I enjoy working across the stack—from designing responsive interfaces and backend services to exploring machine learning applications.
+### Engineering reliable software. Exploring intelligent systems.
 
-- 🎓 **Currently:** M.Tech in Computer Science and Engineering (Artificial Intelligence), IIIT Guwahati (2026–2028).
-- 💻 **Focus:** Full-stack development, software engineering, and AI/ML.
-- 🧠 **Problem solving:** 200+ coding problems solved (as reported in my profile).
-- 🤖 **Exploring:** Natural Language Processing, Graph Neural Networks, and applied machine learning.
-- 🌱 **Learning:** System design, cloud computing, and scalable application development.
-
----
-
-## 02 / Experience
-
-<details open>
-<summary><strong>AI/ML Intern · IIT Guwahati</strong></summary>
-
-- Worked on an NLP-based sentiment analysis chatbot using Python and BERT.
-- Developed a sentiment-classification workflow.
-- Explored model evaluation and application integration.
-
-</details>
-
-<details>
-<summary><strong>Full-Stack Development Intern · VisionInternz</strong></summary>
-
-- Developed responsive web application interfaces using React.js.
-- Worked with Node.js, backend integration, and REST APIs.
-
-</details>
-
-<details>
-<summary><strong>Front-End Development Intern · Prodigy Infotech</strong></summary>
-
-- Built web interfaces using HTML, CSS, and JavaScript.
-- Focused on responsive layouts and user experience.
-
-</details>
-
----
-
-## 03 / Selected Projects
+I'm **Amit Kumar**, an M.Tech student specializing in Artificial Intelligence at **IIIT Guwahati**, with a foundation in Computer Science and Engineering from **NERIST**. I work across full-stack development and machine learning, with an interest in turning technical ideas into useful, well-engineered applications.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🏨 Hotel Reservation System
+**01 / FULL-STACK ENGINEERING**
 
-A full-stack hotel booking and reservation management application.
-
-- Room availability and booking workflows
-- User authentication and reservation management
-- Focus on reliable booking operations
-
-**Stack:** React.js · Node.js · Express.js · MongoDB
+Building responsive web applications, modular MERN-stack systems, and RESTful services with an emphasis on clean architecture and reliable application workflows.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🤖 AI Chatbot — Sentiment Analysis
+**02 / APPLIED AI & ML**
 
-An NLP-based chatbot for sentiment classification using BERT.
+Working with NLP transformers, BERT, machine learning workflows, and graph learning approaches to explore practical intelligent applications.
 
-- Sentiment-analysis workflow
-- NLP-based classification
-- Model evaluation and application integration
+</td>
+<td width="33%" valign="top">
 
-**Stack:** Python · BERT · NLP · Flask
+**03 / PROBLEM SOLVING**
+
+Solved **350+ DSA problems** while strengthening core computer science fundamentals and applying analytical thinking to software engineering challenges.
 
 </td>
 </tr>
+</table>
+
+<div align="center">
+
+**CURRENTLY PURSUING**
+
+**M.Tech · Computer Science and Engineering (Artificial Intelligence)**  
+Indian Institute of Information Technology Guwahati · 2026–2028 · **CGPA: 7.6**
+
+</div>
+
+---
+
+## 02 / Professional Experience
+
+### Building, experimenting, and shipping.
+
+<table>
 <tr>
-<td colspan="2" valign="top">
+<td width="33%" valign="top">
 
-### 🔍 Fake Influencer Detection Using ML & GNNs
+**GOOGLE DEVELOPER GROUP · NERIST**
 
-Exploring the detection of suspicious social media accounts using account metadata and graph relationships.
+*Web Developer · On-Campus*  
+`Jan 2025 – May 2026`
 
-- Experimenting with traditional machine-learning models
-- Investigating graph-based approaches to account analysis
+- Engineered responsive web applications using React.js and JavaScript for hundreds of campus users.
+- Optimized frontend state management in a four-member Agile team, improving UI performance by **25%**.
+- Contributed to web projects and supported developer-focused workshops.
 
-**Stack:** Python · Scikit-learn · NetworkX · Graph Neural Networks
+</td>
+<td width="33%" valign="top">
+
+**INDIAN INSTITUTE OF TECHNOLOGY GUWAHATI**
+
+*AI / Machine Learning Intern*  
+`Jun 2025 – Jul 2025`
+
+- Developed a BERT-based NLP sentiment analysis chatbot using Python and Flask, achieving **92% accuracy**.
+- Built data pipelines and performed feature engineering on custom datasets.
+- Fine-tuned transformer models for the sentiment classification workflow.
+
+</td>
+<td width="33%" valign="top">
+
+**VISIONINTERNZ**
+
+*Full-Stack Development Intern · Remote*  
+`May 2023 – Aug 2023`
+
+- Developed full-stack web applications using the MERN stack and modular architecture.
+- Designed RESTful APIs with Express.js and MongoDB.
+- Managed application deployment workflows using Git and GitHub.
 
 </td>
 </tr>
@@ -109,76 +109,178 @@ Exploring the detection of suspicious social media accounts using account metada
 
 ---
 
-## 04 / Technical Skills
+## 03 / Selected Engineering Projects
+
+### From problem definition to working applications.
+
+<table>
+<tr>
+<td colspan="2" valign="top">
+
+<sub>01 / GRAPH MACHINE LEARNING · JUL 2025 – MAY 2026</sub>
+
+### Fake Influencer Detection Using ML & GNNs
+
+A graph-based fake-account detection system using the TwiBot-20 dataset, combining account classification with relationship-aware learning.
+
+- **Graph-based detection:** Built a fake-account detection approach using GraphSAGE, achieving an **F1-score of 0.89** on the project dataset.
+- **Model comparison:** Evaluated Logistic Regression, Random Forest, GCN, and GraphSAGE for classification performance.
+- **Interactive application:** Developed a Streamlit web app for predictive social-profile classification.
+
+`PYTHON` `PYTORCH` `STREAMLIT` `GRAPHSAGE` `TWIBOT-20`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<sub>02 / NATURAL LANGUAGE PROCESSING · MAY 2025 – JUN 2025</sub>
+
+### AI Chatbot — Sentiment Analysis
+
+An NLP chatbot that uses a BERT transformer to classify text sentiment and provide real-time inference through a lightweight web application.
+
+- **Transformer modelling:** Built a BERT-based sentiment analysis model, achieving **92% accuracy**.
+- **Inference workflow:** Reported inference latency of **under 200 ms** after model integration.
+- **Application integration:** Performed text preprocessing and feature engineering, fine-tuned transformer models, and integrated the model with Flask.
+
+`PYTHON` `BERT` `NLP` `FLASK`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<sub>03 / FULL-STACK DEVELOPMENT · DEC 2025 – JAN 2026</sub>
+
+### Hotel Reservation System
+
+A full-stack booking platform designed around secure user access, room availability, and reservation management.
+
+- **Secure access:** Implemented JWT authentication and role-based access.
+- **Backend services:** Engineered RESTful APIs using Express.js and MongoDB for room availability and user management.
+- **Deployment:** Deployed the frontend on Vercel and backend infrastructure on Render.
+
+`REACT.JS` `NODE.JS` `MONGODB` `JWT` `EXPRESS.JS`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 04 / Technical Toolkit
 
 <div align="center">
 
-**LANGUAGES**
+**PROGRAMMING LANGUAGES**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-451126?style=for-the-badge&logo=cplusplus&logoColor=E5B5C7)
-![Java](https://img.shields.io/badge/Java-451126?style=for-the-badge&logo=openjdk&logoColor=E5B5C7)
 ![Python](https://img.shields.io/badge/Python-451126?style=for-the-badge&logo=python&logoColor=E5B5C7)
 ![JavaScript](https://img.shields.io/badge/JavaScript-451126?style=for-the-badge&logo=javascript&logoColor=E5B5C7)
 ![SQL](https://img.shields.io/badge/SQL-451126?style=for-the-badge&logo=mysql&logoColor=E5B5C7)
 
-**FRONTEND**
+**FRAMEWORKS & LIBRARIES**
 
-![HTML5](https://img.shields.io/badge/HTML5-451126?style=for-the-badge&logo=html5&logoColor=E5B5C7)
-![CSS3](https://img.shields.io/badge/CSS3-451126?style=for-the-badge&logo=css3&logoColor=E5B5C7)
-![React](https://img.shields.io/badge/React-451126?style=for-the-badge&logo=react&logoColor=E5B5C7)
-![Next.js](https://img.shields.io/badge/Next.js-451126?style=for-the-badge&logo=next.js&logoColor=E5B5C7)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-451126?style=for-the-badge&logo=tailwindcss&logoColor=E5B5C7)
-
-**BACKEND & DATABASES**
-
+![React](https://img.shields.io/badge/React.js-451126?style=for-the-badge&logo=react&logoColor=E5B5C7)
 ![Node.js](https://img.shields.io/badge/Node.js-451126?style=for-the-badge&logo=nodedotjs&logoColor=E5B5C7)
-![Express.js](https://img.shields.io/badge/Express.js-451126?style=for-the-badge&logo=express&logoColor=E5B5C7)
+![Express](https://img.shields.io/badge/Express.js-451126?style=for-the-badge&logo=express&logoColor=E5B5C7)
+![PyTorch Geometric](https://img.shields.io/badge/PyTorch_Geometric-451126?style=for-the-badge&logo=pytorch&logoColor=E5B5C7)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-451126?style=for-the-badge&logo=tensorflow&logoColor=E5B5C7)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-451126?style=for-the-badge&logo=scikitlearn&logoColor=E5B5C7)
+![Flask](https://img.shields.io/badge/Flask-451126?style=for-the-badge&logo=flask&logoColor=E5B5C7)
+![BERT](https://img.shields.io/badge/BERT-701A3D?style=for-the-badge)
+
+**DATABASES & DEVELOPER TOOLS**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-451126?style=for-the-badge&logo=mongodb&logoColor=E5B5C7)
-![MySQL](https://img.shields.io/badge/MySQL-451126?style=for-the-badge&logo=mysql&logoColor=E5B5C7)
-
-**AI/ML & TOOLS**
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-701A3D?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-701A3D?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-451126?style=for-the-badge&logo=git&logoColor=E5B5C7)
 ![GitHub](https://img.shields.io/badge/GitHub-451126?style=for-the-badge&logo=github&logoColor=E5B5C7)
+![Postman](https://img.shields.io/badge/Postman-451126?style=for-the-badge&logo=postman&logoColor=E5B5C7)
+![Vercel](https://img.shields.io/badge/Vercel-451126?style=for-the-badge&logo=vercel&logoColor=E5B5C7)
+![Render](https://img.shields.io/badge/Render-451126?style=for-the-badge&logo=render&logoColor=E5B5C7)
+![REST APIs](https://img.shields.io/badge/REST_APIs-701A3D?style=for-the-badge)
 
 </div>
 
+**Core Computer Science:** Data Structures & Algorithms · Object-Oriented Programming · Database Management Systems · Operating Systems · Computer Networks
+
 ---
 
-## 05 / GitHub Activity
+## 05 / Education
+
+| Institution | Qualification | Period | Result |
+|---|---|---|---|
+| IIIT Guwahati | M.Tech, CSE (Artificial Intelligence) | 2026–2028 | CGPA 7.6 |
+| NERIST | B.Tech, Computer Science & Engineering | 2022–2026 | CGPA 7.5 |
+| Shivam Vidya Mandir, Patna | Senior Secondary (Class XII) | 2020–2022 | 62.8% |
+
+---
+
+## 06 / Leadership & Community
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**CREATIVITY & DESIGN LEAD**  
+*Think India · NERIST Chapter*
+
+- Led digital design initiatives for campus events.
+- Supported the visual communication of student-led programs.
+- Contributed creative direction to campus activities.
+
+</td>
+<td width="50%" valign="top">
+
+**WEB DEVELOPER**  
+*Google Developer Group · NERIST*
+
+- Contributed to web development projects.
+- Supported developer-focused workshops.
+- Engaged with the campus developer community.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 07 / GitHub & Coding
 
 <div align="center">
 
 <a href="https://github.com/amitkumar97097">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-451126?style=for-the-badge&logo=github&logoColor=E5B5C7" alt="Explore GitHub profile"/>
+  <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-451126?style=for-the-badge&logo=github&logoColor=E5B5C7" alt="Explore GitHub"/>
 </a>
 <a href="https://github.com/amitkumar97097?tab=repositories">
-  <img src="https://img.shields.io/badge/BROWSE_REPOSITORIES-701A3D?style=for-the-badge&logo=github&logoColor=E5B5C7" alt="Browse repositories"/>
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORIES-701A3D?style=for-the-badge&logo=github&logoColor=E5B5C7" alt="View repositories"/>
+</a>
+<a href="https://leetcode.com/u/amitraj0/">
+  <img src="https://img.shields.io/badge/LEETCODE_PROFILE-451126?style=for-the-badge&logo=leetcode&logoColor=E5B5C7" alt="LeetCode profile"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/amitkumar97097">
-  <img src="https://ghchart.rshah.org/701A3D/amitkumar97097" alt="GitHub contribution calendar for Amit Kumar" width="100%"/>
+  <img src="https://ghchart.rshah.org/701A3D/amitkumar97097" alt="GitHub contribution calendar" width="100%"/>
 </a>
 
-<sub>Contribution calendar is served by a third-party service. If it does not load, view the original activity directly on <a href="https://github.com/amitkumar97097">GitHub</a>.</sub>
+<sub>Contribution calendar is supplied by a third-party service. If unavailable, visit the GitHub profile directly.</sub>
 
 </div>
 
 ---
 
-## 06 / Let's Connect
+## 08 / Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/amit-kumar-79b800256/">
   <img src="https://img.shields.io/badge/LINKEDIN-451126?style=for-the-badge&logo=linkedin&logoColor=E5B5C7" alt="LinkedIn"/>
 </a>
-<a href="https://leetcode.com/u/amitraj0/">
-  <img src="https://img.shields.io/badge/LEETCODE-451126?style=for-the-badge&logo=leetcode&logoColor=E5B5C7" alt="LeetCode"/>
+<a href="https://github.com/amitkumar97097">
+  <img src="https://img.shields.io/badge/GITHUB-451126?style=for-the-badge&logo=github&logoColor=E5B5C7" alt="GitHub"/>
 </a>
 <a href="https://portfolio-website-new-topaz.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-451126?style=for-the-badge&logo=vercel&logoColor=E5B5C7" alt="Portfolio"/>
@@ -189,10 +291,10 @@ Exploring the detection of suspicious social media accounts using account metada
 
 <br/><br/>
 
-**Open to connecting with developers and exploring software engineering, full-stack, and AI/ML opportunities.**
+**Open to connecting with engineers, builders, and teams working on software and AI.**
 
 <img src="./assets/amit-footer.svg" width="100%" alt="Thank you for visiting"/>
 
-<sub>Designed with curiosity. Built with code.</sub>
+<sub>Build with purpose. Learn continuously. Keep shipping.</sub>
 
 </div>
