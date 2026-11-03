@@ -1,23 +1,23 @@
 
 <div align="center">
 
-  <img src="./assets/amit-hero.svg" width="100%" alt="Amit Kumar — Full-Stack Developer and AI Enthusiast"/>
+<img src="./assets/amit-hero.svg" width="100%" alt="Amit Kumar — Full-Stack Developer and AI Enthusiast"/>
 
-  <br/><br/>
+<br/><br/>
 
-  <a href="https://github.com/amitkumar97097">
-    <img src="https://komarev.com/ghpvc/?username=amitkumar97097&label=PROFILE%20VIEWS&color=54C6A3&style=flat-square" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/amitkumar97097?tab=followers">
-    <img src="https://img.shields.io/github/followers/amitkumar97097?label=FOLLOWERS&style=flat-square&color=54C6A3&logo=github" alt="GitHub followers"/>
-  </a>
+<a href="https://github.com/amitkumar97097">
+  <img src="https://komarev.com/ghpvc/?username=amitkumar97097&label=PROFILE%20VIEWS&color=54C6A3&style=flat-square" alt="Profile views"/>
+</a>
+<a href="https://github.com/amitkumar97097?tab=followers">
+  <img src="https://img.shields.io/github/followers/amitkumar97097?label=FOLLOWERS&style=flat-square&color=54C6A3&logo=github" alt="GitHub followers"/>
+</a>
 
-  <br/><br/>
+<br/><br/>
 
-  <a href="https://portfolio-website-new-topaz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-263238?style=for-the-badge&logo=google-chrome&logoColor=54C6A3" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/amit-kumar-79b800256/"><img src="https://img.shields.io/badge/LinkedIn-263238?style=for-the-badge&logo=linkedin&logoColor=54C6A3" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/amitraj0/"><img src="https://img.shields.io/badge/LeetCode-263238?style=for-the-badge&logo=leetcode&logoColor=54C6A3" alt="LeetCode"/></a>
-  <a href="mailto:amitraj02947@gmail.com"><img src="https://img.shields.io/badge/Email-263238?style=for-the-badge&logo=gmail&logoColor=54C6A3" alt="Email"/></a>
+<a href="https://portfolio-website-new-topaz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-263238?style=for-the-badge&logo=google-chrome&logoColor=54C6A3" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/amit-kumar-79b800256/"><img src="https://img.shields.io/badge/LinkedIn-263238?style=for-the-badge&logo=linkedin&logoColor=54C6A3" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/amitraj0/"><img src="https://img.shields.io/badge/LeetCode-263238?style=for-the-badge&logo=leetcode&logoColor=54C6A3" alt="LeetCode"/></a>
+<a href="mailto:amitraj02947@gmail.com"><img src="https://img.shields.io/badge/Email-263238?style=for-the-badge&logo=gmail&logoColor=54C6A3" alt="Email"/></a>
 
 </div>
 
@@ -38,7 +38,7 @@
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amitkumar97097&show_icons=true&hide_border=true&bg_color=242B32&title_color=9BE2CC&icon_color=54C6A3&text_color=E6EDF3&rank_icon=github" alt="Amit's GitHub stats" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=amitkumar97097&show_icons=true&hide_border=true&bg_color=242B32&title_color=9BE2CC&icon_color=54C6A3&text_color=E6EDF3" alt="GitHub Stats" width="100%"/>
 
 </td>
 </tr>
@@ -150,10 +150,11 @@ A full-stack booking platform focused on secure user access, room availability, 
 <div align="center">
 
 <a href="https://github.com/amitkumar97097">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitkumar97097&show_icons=true&theme=github_dark&hide_border=true&bg_color=242B32&title_color=9BE2CC&icon_color=54C6A3&text_color=E6EDF3" alt="GitHub Statistics" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=amitkumar97097&show_icons=true&theme=github_dark&hide_border=true&bg_color=242B32&title_color=9BE2CC&icon_color=54C6A3&text_color=E6EDF3" alt="GitHub Statistics" height="180"/>
 </a>
-<a href="https://github.com/amitkumar97097">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar97097&layout=compact&theme=github_dark&hide_border=true&bg_color=242B32&title_color=9BE2CC&text_color=E6EDF3" alt="Top Languages" height="180"/>
+
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=amitkumar97097&layout=compact&theme=github_dark&hide_border=true&bg_color=242B32&title_color=9BE2CC&text_color=E6EDF3">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=amitkumar97097&layout=compact&theme=github_dark&hide_border=true&bg_color=242B32&title_color=9BE2CC&text_color=E6EDF3" alt="Top Languages" height="180"/>
 </a>
 
 <br/><br/>
