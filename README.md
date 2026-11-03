@@ -142,38 +142,28 @@ A full-stack booking platform focused on secure user access, room availability, 
 
 ---
 
-## 📊 GitHub Analytics
+<h2>📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<a href="https://github.com/amitkumar97097">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amitkumar97097&show_icons=true&hide_border=true&bg_color=242B32&title_color=9BE2CC&icon_color=54C6A3&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/amitkumar97097">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar97097&layout=compact&hide_border=true&bg_color=242B32&title_color=9BE2CC&text_color=E6EDF3&langs_count=8" alt="Top languages"/>
-</a>
+  <!-- GitHub Streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=amitkumar97097&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+    width="90%"
+  />
 
-<br/>
+  <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=amitkumar97097&hide_border=true&background=242B32&ring=54C6A3&fire=54C6A3&currStreakLabel=9BE2CC&sideLabels=E6EDF3&dates=9AA7B2" alt="GitHub streak statistics" width="75%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitkumar97097&bg_color=242B32&color=E6EDF3&line=54C6A3&point=9BE2CC&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%"/>
-
-</div>
-
----
-
-## 🗓️ Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/54C6A3/amitkumar97097" alt="Amit Kumar's GitHub contribution calendar" width="100%"/>
+  <!-- Contribution Calendar -->
+  <img
+    src="https://ghchart.rshah.org/54C6A3/amitkumar97097"
+    alt="GitHub Contribution Calendar"
+    width="100%"
+  />
 
 </div>
 
----
 
 ## 🎓 Education
 
