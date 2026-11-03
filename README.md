@@ -126,19 +126,20 @@ A machine learning and graph-based approach to identifying suspicious social med
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amitkumar97097&bg_color=10070c&color=e5b5c7&line=c77b9b&point=f8f0f3&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+### Explore My GitHub Journey
 
-<br/><br/>
+[![GitHub Profile](https://img.shields.io/badge/Explore-GitHub%20Profile-701A3D?style=for-the-badge&logo=github&logoColor=E5B5C7)](https://github.com/amitkumar97097)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amitkumar97097&show_icons=true&hide_border=true&bg_color=10070c&title_color=e5b5c7&text_color=f8f0f3&icon_color=c77b9b" alt="GitHub statistics" />
+[![Repositories](https://img.shields.io/badge/View-Public%20Repositories-451126?style=for-the-badge&logo=github&logoColor=E5B5C7)](https://github.com/amitkumar97097?tab=repositories)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar97097&layout=compact&hide_border=true&bg_color=10070c&title_color=e5b5c7&text_color=f8f0f3" alt="Most used programming languages" />
+[![Contributions](https://img.shields.io/badge/View-Contribution%20Calendar-701A3D?style=for-the-badge&logo=github&logoColor=E5B5C7)](https://github.com/amitkumar97097)
+
+<br/>
+
+**Code. Contribute. Create. Repeat.**
 
 </div>
 
-<sub>Statistics and activity visualizations are dynamically provided by third-party services. Language cards reflect detected public repository data, not total coding time.</sub>
-
----
 
 ## 06. Connect With Me
 
