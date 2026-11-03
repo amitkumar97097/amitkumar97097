@@ -1,1 +1,17 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110">
+  <defs>
+    <linearGradient id="footerWine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#451126"/>
+      <stop offset="50%" stop-color="#C77B9B"/>
+      <stop offset="100%" stop-color="#451126"/>
+      <animate attributeName="x1" values="0;1;0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 15 Q300 65 600 15 T1200 15" fill="none" stroke="#701A3D" stroke-width="1"/>
+  <path d="M0 25 Q300 75 600 25 T1200 25" fill="none" stroke="url(#footerWine)" stroke-width="2">
+    <animate attributeName="stroke-dasharray" values="10 15;30 10;10 15" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="72" text-anchor="middle" fill="#E5B5C7" font-family="monospace" font-size="13" letter-spacing="4">THANK YOU FOR VISITING</text>
+  <circle cx="250" cy="72" r="3" fill="#C77B9B"/>
+  <circle cx="950" cy="72" r="3" fill="#C77B9B"/>
+</svg>
